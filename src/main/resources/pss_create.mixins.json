@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.dreaminglri.pss_create.mixin",
+  "mixins": [],
+  "client": [
+    "TitleScreenMixin"
+  ],
+  "server": []
+}
